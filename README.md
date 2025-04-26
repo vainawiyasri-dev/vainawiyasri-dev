@@ -3,15 +3,17 @@ Final-year Electronics and Communication Engineering (ECE) Student
 <img align="right" width="250" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVuaTFoZmhzdWVqdXZ4aDB2ZmluaW1rYnJsajNhZDc3N2dpcjk4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif">
 - 💻 Focused on Software Development, AI and RPA
   
-- 🌱 Currently learning Data Structures and Algorithms (DSA) and expanding AI/Automation skills
+- 🎯 Currently learning Data Structures and Algorithms (DSA) and expanding AI/Automation skills
 - 🎓 Studying at [![Velalar College of Engineering and Technology](https://img.shields.io/badge/Velalar_College_of_Engineering_and_Technology-teal)](http://velalarengg.ac.in/)
 - 📈 Actively seeking entry-level opportunities to apply my technical and analytical skills
 - ✨ Fun fact: I love learning new tech and exploring AI-driven solutions!
+
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](your-leetcode-link)
-[![Hackerrank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](your-hackerrank-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vainawiyasrisivakumar/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/VAINAWIYASRI/)
+[![Hackerrank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vainawiyasri_wrk)
+
 
 ## 🛠️ Languages and Tools
 
