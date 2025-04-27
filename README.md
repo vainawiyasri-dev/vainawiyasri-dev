@@ -1,7 +1,7 @@
 ## Hi there, it's me Vainawiyasri
 Final-year Electronics and Communication Engineering (ECE) Student
 <img align="right" width="250" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVuaTFoZmhzdWVqdXZ4aDB2ZmluaW1rYnJsajNhZDc3N2dpcjk4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif">
-- 💻 Focused on Software Development, AI and RPA
+- 💻 Focused on Software Development and AI(Artificial Intelligence)
   
 - 🎯 Currently learning Data Structures and Algorithms (DSA) and expanding AI/Automation skills
 - 🎓 Studying at [![Velalar College of Engineering and Technology](https://img.shields.io/badge/Velalar_College_of_Engineering_and_Technology-teal)](http://velalarengg.ac.in/)
