@@ -1,6 +1,6 @@
 ## Hi there, it's me Vainawiyasri
 Final-year Electronics and Communication Engineering (ECE) Student
-<img align="right" width="200" height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVuaTFoZmhzdWVqdXZ4aDB2ZmluaW1rYnJsajNhZDc3N2dpcjk4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif">
+<img align="right" width="100" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVuaTFoZmhzdWVqdXZ4aDB2ZmluaW1rYnJsajNhZDc3N2dpcjk4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif">
 - 💻 Focused on Software Development and AI (Artificial Intelligence)
   
 - 🎯 Currently learning Data Structures and Algorithms (DSA) and expanding AI/Automation skills
