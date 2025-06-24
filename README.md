@@ -4,8 +4,8 @@ Final-year Electronics and Communication Engineering (ECE) Student
   
 - 🎯 Currently learning Data Structures and Algorithms (DSA) and Upskilling AI/Automation skills
 - 🎓 Studying at [![Velalar College of Engineering and Technology](https://img.shields.io/badge/Velalar_College_of_Engineering_and_Technology-teal)](http://velalarengg.ac.in/)
-- 📈 Actively seeking entry-level opportunities to apply my technical and analytical skills
 - 🌟 2x Salesforce Certified | Trailhead Explorer with hands-on learning in CRM and automation.
+- 📈 Actively seeking entry-level opportunities to apply my technical and analytical skills
 - ✨ Fun fact: I love learning new techs and exploring AI-driven solutions!
 
 ## 📫 Let's Connect
