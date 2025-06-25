@@ -31,4 +31,4 @@ Final-year Electronics and Communication Engineering (ECE) Student
 
 [![Vainawiyasri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vainawiyasri-dev&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![LeetCode Stats]([https://leetcode.com/u/VAINAWIYASRI-SIVAKUMAR/])
+![LeetCode Stats]([https://leetcode.com/u/VAINAWIYASRI-SIVAKUMAR])
